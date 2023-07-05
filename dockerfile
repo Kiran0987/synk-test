@@ -6,7 +6,7 @@
 #
 #
 # The line below states we will base our new image on the Latest Official Ubuntu
-FROM ubuntu:latest
+FROM ubuntu:22.10
 #
 # Identify the maintainer of an image
 LABEL maintainer="myname@somecompany.com"
